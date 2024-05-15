@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,121,120,1) 28%, rgb(218, 224, 225) 100%);
+}
+#watch{
+    background-color: white;
+    width: 40vw;
+    height: 30vw;
+    border: 3px solid;
+    border-radius: 50%;
+    margin: auto;
+}
+#timer{
+    margin: auto;
+    margin-top: 8vw;
+    width:30%;
+    height: 10%;
+    border: 3px solid;
+    border-radius: 5px;
+}
+#timer p{
+    margin: auto;
+    font-size: 1.5rem;
+    margin-left: 10%;
+    margin-top: 5px;
+}
+button{
+    margin: auto;
+    margin-top: 5vw;
+    margin-left: 21px;
+    width:25%;
+    height: 10%;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: whitesmoke;
+}
+#start{
+    background-color: green;
+}
+#stop{
+    background-color: red;
+}
+#reset{
+    background-color: grey;
+}
